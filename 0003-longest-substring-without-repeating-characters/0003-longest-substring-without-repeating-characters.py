@@ -3,7 +3,7 @@ class Solution:
         
         start = 0
         index = start
-        temp = []
+        temp = set()
         max_v = 0
         while start < len(s):
             if index == len(s):
@@ -11,12 +11,12 @@ class Solution:
                 return max_v
 
             if s[index] not in temp:
-                temp.append(s[index])
+                temp.add(s[index])
                 index += 1
             else:
                 max_v = max(max_v, len(temp))
                 
                 start += 1
                 index = start
-                temp = []
+                temp.clear()
         return max_v
