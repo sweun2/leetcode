@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sweun2/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sweun2/leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/sweun2/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sweun2/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
