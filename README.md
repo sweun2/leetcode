@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sweun2/leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/sweun2/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sweun2/leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sweun2/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sweun2/leetcode/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
