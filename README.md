@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sweun2/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sweun2/leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/sweun2/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sweun2/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sweun2/leetcode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sweun2/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
