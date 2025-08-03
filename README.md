@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sweun2/leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sweun2/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sweun2/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sweun2/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
