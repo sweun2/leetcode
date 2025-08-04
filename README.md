@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sweun2/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sweun2/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sweun2/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sweun2/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sweun2/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sweun2/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sweun2/leetcode/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sweun2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sweun2/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
