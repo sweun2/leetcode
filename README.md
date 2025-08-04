@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sweun2/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sweun2/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sweun2/leetcode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sweun2/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sweun2/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sweun2/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sweun2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sweun2/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sweun2/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sweun2/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sweun2/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Tree
 |  |
 | ------- |
