@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sweun2/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sweun2/leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sweun2/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/sweun2/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sweun2/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sweun2/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sweun2/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sweun2/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sweun2/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sweun2/leetcode/tree/master/0070-climbing-stairs) |
 ## Trie
