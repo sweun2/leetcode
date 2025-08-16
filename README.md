@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sweun2/leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sweun2/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sweun2/leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/sweun2/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sweun2/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sweun2/leetcode/tree/master/0078-subsets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sweun2/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sweun2/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sweun2/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sweun2/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/sweun2/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sweun2/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sweun2/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
