@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sweun2/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sweun2/leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/sweun2/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/sweun2/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sweun2/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sweun2/leetcode/tree/master/0070-climbing-stairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/sweun2/leetcode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/sweun2/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
